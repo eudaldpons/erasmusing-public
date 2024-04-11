@@ -2,7 +2,7 @@
 
 Erasmusing is a mobile application designed to cater to the needs of international students. It provides a platform for students to share their experiences, discover local events, and connect with peers during their study abroad journeys.
 
-<img src="img/1.png" height="300em" /><img src="img/2.png" height="300em" /><img src="img/3.png" height="300em" /><img src="img/4.png" height="300em" /><img src="img/5.png" height="300em" />
+<img src="img/1.jpg" height="300em" /><img src="img/2.png" height="300em" /><img src="img/3.png" height="300em" /><img src="img/5.png" height="300em" /><img src="img/4.png" height="300em" />
 
 
 ## Technologies Used
